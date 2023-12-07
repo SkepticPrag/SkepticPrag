@@ -21,11 +21,11 @@
 </p>
 
 --------------------------------------------------
-`👨‍💻 Technical Maestro: `   
->With a strong command over Unity, I craft immersive gaming experiences that captivate players and push the boundaries of creativity. My expertise lies in coding, designing, and optimizing games for seamless performance.
+`💡 Visionary Mindset: `   
+>From concept to execution, I thrive on turning ideas into engaging gameplay. Whether it's scripting complex mechanics or fine-tuning the user experience, I'm always up for the challenge.
 
 `🔧 Problem-Solving Guru:`
->In the ever-evolving world of game development, challenges are my playground. I embrace obstacles as opportunities to learn and grow, consistently finding innovative solutions to ensure the smoothest gaming experience.
+>In the ever-evolving world of game development, I embrace obstacles as opportunities to learn and grow. My expertise lies in coding, designing, and optimizing games for seamless performance.
 
 `🚀 Determination Unleashed:`
 >My journey in game development is fueled by an unwavering determination to overcome hurdles and reach new heights. I thrive on setting ambitious goals and working tirelessly until they're not just met but exceeded.
